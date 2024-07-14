@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6327a"
+  },
+  "name": "Mentor A",
+  "mentees": [
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321a"
+    },
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321b"
+    },
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321c"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6327b"
+  },
+  "name": "Mentor B",
+  "mentees": []
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6324a"
+  },
+  "name": "MySQL Basic",
+  "date_taught": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6324b"
+  },
+  "name": "MongoDB Installation",
+  "date_taught": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  }
+}]

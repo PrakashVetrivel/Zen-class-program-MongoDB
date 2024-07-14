@@ -1,0 +1,30 @@
+[{
+  "_id": "user_id",
+  "name": "string",
+  "email": "string",
+  "batch": "string"
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6321a"
+  },
+  "name": "PRAKASH",
+  "email": "PRAKASH123@gmail.com",
+  "batch": "Batch1"
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6321b"
+  },
+  "name": "SURYA",
+  "email": "surya58@gmail.com",
+  "batch": "Batch1"
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6321c"
+  },
+  "name": "Charlie",
+  "email": "charlie@gmail.com",
+  "batch": "Batch2"
+}]

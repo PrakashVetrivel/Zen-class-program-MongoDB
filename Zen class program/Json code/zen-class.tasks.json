@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6325a"
+  },
+  "topic_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6324a"
+  },
+  "name": "MySQL Basic Task",
+  "due_date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "submitted_by": [
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6325b"
+  },
+  "topic_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6324b"
+  },
+  "name": "MongoDB Task",
+  "due_date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "submitted_by": []
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6326a"
+  },
+  "company_name": "Google",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "students_appeared": [
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321a"
+    },
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "60d5ec49f6c8e7c3d1f6326b"
+  },
+  "company_name": "Microsoft",
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "students_appeared": [
+    {
+      "$oid": "60d5ec49f6c8e7c3d1f6321c"
+    }
+  ]
+}]
